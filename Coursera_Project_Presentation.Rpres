@@ -40,7 +40,8 @@ Prod_Score <- c(0 , 0 , 0 , 0 , 1 , 1 , 0 , 0 , 0,  1)
 Summary Statistics - For Employee Productivity Score
 ========================================================
 ```{r}
-summary(cars)
+summary(Tkt_Count)
+summary(Prod_Score)
 ```
 
 

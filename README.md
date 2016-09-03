@@ -14,4 +14,4 @@ R-Studio's Shiny Server - Application Link:
 https://sathya1975.shinyapps.io/Coursera__Data_Products_Project/
 
 R-Studio Presentation - R-Pubs Link:
-http://rpubs.com/Sathya/CourseraDataProducts
+http://rpubs.com/Sathya/Coursera_Data_Products
